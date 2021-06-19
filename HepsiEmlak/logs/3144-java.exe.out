@@ -1,0 +1,25 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 693milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 693"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 57346"}
+{"logLevel":"info","message":"Listening on port:57346"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickIlSecinizButton' and 'PCWebTestCase1.clickIlSecinizButton'"}
+{"logLevel":"debug","message":"Found Konum kısmında yer alan ' İl Seçiniz ' butonuna basılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.waitForSecond' and 'PCWebTestCase1.waitForSecond'"}
+{"logLevel":"debug","message":"Found {} Saniye kadar bekle. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickIlceSeciniz' and 'PCWebTestCase1.clickIlceSeciniz'"}
+{"logLevel":"debug","message":"Found Konum kısmında yer alan ' İlçe Seçiniz ' butonuna basılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickIzmır' and 'PCWebTestCase1.clickIzmır'"}
+{"logLevel":"debug","message":"Found İzmir seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickSatilikButton' and 'PCWebTestCase1.clickSatilikButton'"}
+{"logLevel":"debug","message":"Found Satılık butonuna basılır. in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tSatılık butonuna basılır. : public void clickSatilikButton()"}
+{"logLevel":"debug","message":"\tİzmir seçilir. : public void clickIzmır()"}
+{"logLevel":"debug","message":"\tKonum kısmında yer alan ' İl Seçiniz ' butonuna basılır. : public void clickIlSecinizButton()"}
+{"logLevel":"debug","message":"\tKonum kısmında yer alan ' İlçe Seçiniz ' butonuna basılır. : public void clickIlceSeciniz()"}
+{"logLevel":"debug","message":"\t{} Saniye kadar bekle. : public void waitForSecond(ınt second) throws InterruptedException"}

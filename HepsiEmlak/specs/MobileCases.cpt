@@ -1,0 +1,94 @@
+
+// For Case 1 Mobile
+//----------------------------------------------------------------------------------------------------------------------
+# Satılık Butonuna Tıklanır..
+*  cookie kapatılır.
+*  "1" Saniye kadar bekle.
+*  Satılık Butonuna Basılır..
+*  "1" Saniye kadar bekle.
+
+# Filtrele Butonuna Tıklanır.
+*  Filtrele Butonuna Basılır.
+*  "1" Saniye kadar bekle.
+
+# İl ' İzmir ' Olarak Seçilir.
+*  İl Seçiniz Butonuna Basılır..
+*  Listeden İzmir seçilir.
+
+# İlçe ' Bornova ' Olarak Seçilir.
+*  İlçe Seçimi için İlçe Seçiniz Butonuna basılır.
+*  Bornova Seçimi yapılır.
+*  Uygula Butonuna Basılır.
+
+# Kategori İşyeri Olarak Seçilir.
+*  İşYeri Seçeneği Seçilir.
+*  "2" Saniye kadar bekle.
+
+# Fiyat Aralığı ' 100.000 - 2.000.000 ' Olarak Ayarlanır.
+*  En Az alanına "100000" Bilgisi girilir.
+*  En Çok alanına "2000000" Bilgisi Girilir.
+
+# Bina Yaşı ' Sıfır Bina, 1-5, 6-10 ' Olarak Ayarlanır.
+*  Bina Yaşı Seçiniz butonuna tıklanır.
+*  Sıfır Bina yaşı Seçilir.
+*  1-5 Bina yaşı Seçilir.
+*  6-10 Bina yaşı Seçilir.
+*  Bina Yaşlarını Onaylamak için Uygula butonuna basıılır.
+
+# ' Sonuçları Göster ' Butonuna Basılır.
+*  Sonuçları Göster Butonuna Tıklanır.
+*  "2" Saniye kadar bekle.
+
+# Bütün Tag Kontrolleri Yapılır.
+*  Filtrele Butonuna Basılır2
+*  Bina Yaşı 6-10 Kontrolü yapılır.
+*  Bina Yaşı 1-5 Kontrolü yapılır.
+*  Bina Yaşı Sıfır Bina Kontrolü yapılır.
+*  Maximum Fiyat Bilgisi Kontrol Edilir.
+*  Minimum Fiyat Bilgisi Kontrol Edilir.
+*  Kategori Kontrol Edilir.
+*  Durumu Kontrol Edilir.
+
+//For Case2 Mobile
+//----------------------------------------------------------------------------------------------------------------------
+
+# Kirelık Butonuna Tıklanır.
+*  cookie kapatılır.
+*  Kiralık Butonuna Tıkla.
+
+# Filtrele Butonuna Tıklanır..
+*  "2" Saniye kadar bekle.
+*  Filtrele Butonuna Tıkla2.
+
+# İl ' Ankara ' Olarak Seçilir.
+*  İl Seçiniz Butonuna Bas.
+*  "1" Saniye kadar bekle.
+*  Listeden Ankara seçilir.
+
+# İlçe ' Çankaya ' Olarak Seçilir.
+*  İlçe Seçiniz Butonuna Bas.
+*  Çankaya Seçimini yap.
+*  Uygula Butonuna Bas.
+
+# ' 2 + 1 ' Oda Sayısı Seçimi Yapılır.
+*  'Oda Seçiniz' butonuna tıkla.
+*  2+1 Oda seç.
+*  Uygula Butonuna Bas2.
+
+# Site İçerisinde İkonu İşaretlenir.
+*  Site İçerisinde İkonunu İşaretle.
+*  "1" Saniye kadar bekle.
+
+# ' Sonuçları Göster ' Butonuna Tıklanır.
+*  Sonuçları Göster Butonuna Tıkla.
+*  "2" Saniye kadar bekle.
+
+# 3. İlan Seçilir..
+*  3. İlan'a Tıkla.
+*  "2" Saniye kadar bekle.
+
+# Telefon Numarası Gösterilir ve Doğruluğu Kontrol Edilir.
+*  Telefonu Göster Butonuna Tıklaa.
+*  Telefon Numarasının Gerçekliğini Kontrol Et.
+
+

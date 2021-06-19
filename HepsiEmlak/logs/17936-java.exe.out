@@ -1,0 +1,257 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 707milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 707"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 54223"}
+{"logLevel":"info","message":"Listening on port:54223"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.sendMaxFiyat' and 'PCWebTestCase1.sendMaxFiyat'"}
+{"logLevel":"debug","message":"Found Maximum fiyat bilgisi {} olarak girilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.clickIzmir' and 'MobileWebTestCase1.clickIzmir'"}
+{"logLevel":"debug","message":"Found Listeden İzmir seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase2.clickAnkaraIlcesi' and 'MobileWebTestCase2.clickAnkaraIlcesi'"}
+{"logLevel":"debug","message":"Found Çankaya Seçimini yap. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase2.clickAnkara' and 'MobileWebTestCase2.clickAnkara'"}
+{"logLevel":"debug","message":"Found Listeden Ankara seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase2.clickOdaYasiSecinizButton2' and 'MobileWebTestCase2.clickOdaYasiSecinizButton2'"}
+{"logLevel":"debug","message":"Found 'Oda Seçiniz' butonuna tıkla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickIsyeri' and 'PCWebTestCase1.clickIsyeri'"}
+{"logLevel":"debug","message":"Found Kategori olarak ' İşyeri ' seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickBirBesBina' and 'PCWebTestCase1.clickBirBesBina'"}
+{"logLevel":"debug","message":"Found 1-5 saçeneği seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.assertFiyatYuzBin' and 'MobileWebTestCase1.assertFiyatYuzBin'"}
+{"logLevel":"debug","message":"Found Minimum Fiyat Bilgisi Kontrol Edilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.clickBinaYasButton' and 'MobileWebTestCase1.clickBinaYasButton'"}
+{"logLevel":"debug","message":"Found Bina Yaşı Seçiniz butonuna tıklanır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.sendMinCost' and 'MobileWebTestCase1.sendMinCost'"}
+{"logLevel":"debug","message":"Found En Az alanına {} Bilgisi girilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase2.clickKiralikButton2' and 'MobileWebTestCase2.clickKiralikButton2'"}
+{"logLevel":"debug","message":"Found Kiralık Butonuna Tıkla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.tagFiyatAssertion' and 'PCWebTestCase1.tagFiyatAssertion'"}
+{"logLevel":"debug","message":"Found Tag kısmında Fiyet = 100.000 TL - 2.000.000 TL kontrolü yapılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickBornova' and 'PCWebTestCase1.clickBornova'"}
+{"logLevel":"debug","message":"Found Bornova seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.sendMaxCost' and 'MobileWebTestCase1.sendMaxCost'"}
+{"logLevel":"debug","message":"Found En Çok alanına {} Bilgisi Girilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase2.clickBornova' and 'PCWebTestCase2.clickBornova'"}
+{"logLevel":"debug","message":"Found Çankaya seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickSatilikButton' and 'PCWebTestCase1.clickSatilikButton'"}
+{"logLevel":"debug","message":"Found Satılık butonuna basılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase2.clickKiralikButton' and 'PCWebTestCase2.clickKiralikButton'"}
+{"logLevel":"debug","message":"Found Kiralık butonuna basılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickBinaYasiSecinizButton' and 'PCWebTestCase1.clickBinaYasiSecinizButton'"}
+{"logLevel":"debug","message":"Found 'Bina Yaşı Seçiniz' butonuna tıklanır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.clickBirToBesBina' and 'MobileWebTestCase1.clickBirToBesBina'"}
+{"logLevel":"debug","message":"Found 1-5 Bina yaşı Seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase2.clickBinaYasiSecinizButton' and 'PCWebTestCase2.clickBinaYasiSecinizButton'"}
+{"logLevel":"debug","message":"Found 'Oda Seçiniz' butonuna tıklanır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase2.clickUcuncuIlan2' and 'MobileWebTestCase2.clickUcuncuIlan2'"}
+{"logLevel":"debug","message":"Found 3. İlan'a Tıkla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.clickBornovaIlcesi' and 'MobileWebTestCase1.clickBornovaIlcesi'"}
+{"logLevel":"debug","message":"Found Bornova Seçimi yapılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.clickAltiOnBina' and 'MobileWebTestCase1.clickAltiOnBina'"}
+{"logLevel":"debug","message":"Found 6-10 Bina yaşı Seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.clickIlceButton' and 'MobileWebTestCase1.clickIlceButton'"}
+{"logLevel":"debug","message":"Found İlçe Seçimi için İlçe Seçiniz Butonuna basılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.tagBinaYasiBirBesAssertion' and 'PCWebTestCase1.tagBinaYasiBirBesAssertion'"}
+{"logLevel":"debug","message":"Found Tag kısmında Bina Yaşı = 1-5 kontrolü yapılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase2.clickAraButton' and 'PCWebTestCase2.clickAraButton'"}
+{"logLevel":"debug","message":"Found Ara Butonuna basılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickSifirBina' and 'PCWebTestCase1.clickSifirBina'"}
+{"logLevel":"debug","message":"Found Sıfır Bina saçeneği seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickAraButton' and 'PCWebTestCase1.clickAraButton'"}
+{"logLevel":"debug","message":"Found Ara butonuna basılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.tagKategoriAssertion' and 'PCWebTestCase1.tagKategoriAssertion'"}
+{"logLevel":"debug","message":"Found Tag kısmında Kategori = İşyeri kontrolü yapılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.assertYasSifir' and 'MobileWebTestCase1.assertYasSifir'"}
+{"logLevel":"debug","message":"Found Bina Yaşı Sıfır Bina Kontrolü yapılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.assertYFiyatIkiMilyon' and 'MobileWebTestCase1.assertYFiyatIkiMilyon'"}
+{"logLevel":"debug","message":"Found Maximum Fiyat Bilgisi Kontrol Edilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.clickUygulaButton' and 'MobileWebTestCase1.clickUygulaButton'"}
+{"logLevel":"debug","message":"Found Uygula Butonuna Basılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.tagIlAssertion' and 'PCWebTestCase1.tagIlAssertion'"}
+{"logLevel":"debug","message":"Found Tag Kısmında il = İzmir kontrolü yapılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.clickIsYeri' and 'MobileWebTestCase1.clickIsYeri'"}
+{"logLevel":"debug","message":"Found İşYeri Seçeneği Seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase2.clickIlceButton2' and 'MobileWebTestCase2.clickIlceButton2'"}
+{"logLevel":"debug","message":"Found İlçe Seçiniz Butonuna Bas. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.clickSatilikButton' and 'MobileWebTestCase1.clickSatilikButton'"}
+{"logLevel":"debug","message":"Found Satılık Butonuna Basılır.. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickIlceSeciniz' and 'PCWebTestCase1.clickIlceSeciniz'"}
+{"logLevel":"debug","message":"Found Konum kısmında yer alan ' İlçe Seçiniz ' butonuna basılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.tagBinaYasiAltiOnAssertion' and 'PCWebTestCase1.tagBinaYasiAltiOnAssertion'"}
+{"logLevel":"debug","message":"Found Tag kısmında Bina Yaşı = 6-10 kontrolü yapılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase2.clickIlceSeciniz' and 'PCWebTestCase2.clickIlceSeciniz'"}
+{"logLevel":"debug","message":"Found Konum kısmında yer alan ' İlçe Seçiniz ' Butonuna basılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.tagIlceAssertion' and 'PCWebTestCase1.tagIlceAssertion'"}
+{"logLevel":"debug","message":"Found Tag kısmında ilçe = Bornova kontrolü yapılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.clickSonuclariGoster' and 'MobileWebTestCase1.clickSonuclariGoster'"}
+{"logLevel":"debug","message":"Found Sonuçları Göster Butonuna Tıklanır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.clickYasUygulaButton' and 'MobileWebTestCase1.clickYasUygulaButton'"}
+{"logLevel":"debug","message":"Found Bina Yaşlarını Onaylamak için Uygula butonuna basıılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.assertDurumu' and 'MobileWebTestCase1.assertDurumu'"}
+{"logLevel":"debug","message":"Found Durumu Kontrol Edilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.assertYasAltiOn' and 'MobileWebTestCase1.assertYasAltiOn'"}
+{"logLevel":"debug","message":"Found Bina Yaşı 6-10 Kontrolü yapılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase2.clickIzmir' and 'PCWebTestCase2.clickIzmir'"}
+{"logLevel":"debug","message":"Found Ankara seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase2.waitForSecond' and 'PCWebTestCase2.waitForSecond'"}
+{"logLevel":"debug","message":"Found {} saniye kadar beklenir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.waitForSecond' and 'PCWebTestCase1.waitForSecond'"}
+{"logLevel":"debug","message":"Found {} Saniye kadar bekle. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase2.clickIkiArtiBirOda' and 'MobileWebTestCase2.clickIkiArtiBirOda'"}
+{"logLevel":"debug","message":"Found 2+1 Oda seç. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickIzmir' and 'PCWebTestCase1.clickIzmir'"}
+{"logLevel":"debug","message":"Found İzmir seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase2.clickFiltreleButton3' and 'MobileWebTestCase2.clickFiltreleButton3'"}
+{"logLevel":"debug","message":"Found Filtrele Butonuna Tıkla2. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.clickFiltreleButton2' and 'MobileWebTestCase1.clickFiltreleButton2'"}
+{"logLevel":"debug","message":"Found Filtrele Butonuna Basılır2 in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase2.clickUcuncuIlan' and 'PCWebTestCase2.clickUcuncuIlan'"}
+{"logLevel":"debug","message":"Found Listedeki 3. ilan seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase2.assertTelNo' and 'PCWebTestCase2.assertTelNo'"}
+{"logLevel":"debug","message":"Found Telefon numarası Kontrolü in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase2.clickSiteIçiButton2' and 'MobileWebTestCase2.clickSiteIçiButton2'"}
+{"logLevel":"debug","message":"Found Site İçerisinde İkonunu İşaretle. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickIlSecinizButton' and 'PCWebTestCase1.clickIlSecinizButton'"}
+{"logLevel":"debug","message":"Found Konum kısmında yer alan ' İl Seçiniz ' butonuna basılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.assertKategori' and 'MobileWebTestCase1.assertKategori'"}
+{"logLevel":"debug","message":"Found Kategori Kontrol Edilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.closeCookie' and 'MobileWebTestCase1.closeCookie'"}
+{"logLevel":"debug","message":"Found cookie kapatılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase2.clickIlSecinizButton' and 'PCWebTestCase2.clickIlSecinizButton'"}
+{"logLevel":"debug","message":"Found Konum kısmında yer alan ' İl Seçiniz ' Butonuna  basılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase2.clickSonuclariGoster2' and 'MobileWebTestCase2.clickSonuclariGoster2'"}
+{"logLevel":"debug","message":"Found Sonuçları Göster Butonuna Tıkla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase2.clickTelNoButton' and 'PCWebTestCase2.clickTelNoButton'"}
+{"logLevel":"debug","message":"Found Telefon Numarasını Göster butonuna tııklanır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.clickIlseciniz' and 'MobileWebTestCase1.clickIlseciniz'"}
+{"logLevel":"debug","message":"Found İl Seçiniz Butonuna Basılır.. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.clickSifirBina' and 'MobileWebTestCase1.clickSifirBina'"}
+{"logLevel":"debug","message":"Found Sıfır Bina yaşı Seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.clickFiltreleButton' and 'MobileWebTestCase1.clickFiltreleButton'"}
+{"logLevel":"debug","message":"Found Filtrele Butonuna Basılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase2.clickSiteIcindeButton' and 'PCWebTestCase2.clickSiteIcindeButton'"}
+{"logLevel":"debug","message":"Found Site içerisinde seçeneği evet olarak işaretlenir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.sendMinFiyat' and 'PCWebTestCase1.sendMinFiyat'"}
+{"logLevel":"debug","message":"Found Minimum fiyat bilgisi {} olarak girilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase1.assertYasBirBes' and 'MobileWebTestCase1.assertYasBirBes'"}
+{"logLevel":"debug","message":"Found Bina Yaşı 1-5 Kontrolü yapılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.navigateToHepsiEmlak' and 'PCWebTestCase1.navigateToHepsiEmlak'"}
+{"logLevel":"debug","message":"Found HepsiEmlak Web Sayfasına Gidilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase2.clickAltiOnBina' and 'PCWebTestCase2.clickAltiOnBina'"}
+{"logLevel":"debug","message":"Found 2+1 saçeneği seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase2.clickUygulaButton3' and 'MobileWebTestCase2.clickUygulaButton3'"}
+{"logLevel":"debug","message":"Found Uygula Butonuna Bas2. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase2.clickIlseciniz2' and 'MobileWebTestCase2.clickIlseciniz2'"}
+{"logLevel":"debug","message":"Found İl Seçiniz Butonuna Bas. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickAltiOnBina' and 'PCWebTestCase1.clickAltiOnBina'"}
+{"logLevel":"debug","message":"Found 6-10 saçeneği seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'MobileWebTestCase2.clickUygulaButton2' and 'MobileWebTestCase2.clickUygulaButton2'"}
+{"logLevel":"debug","message":"Found Uygula Butonuna Bas. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.tagBinaYasiSifirAssertion' and 'PCWebTestCase1.tagBinaYasiSifirAssertion'"}
+{"logLevel":"debug","message":"Found Tag kısmında Bina Yaşı = Sıfır Bina kontrolü yapılır. in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tcookie kapatılır. : public void closeCookie()"}
+{"logLevel":"debug","message":"\tMinimum fiyat bilgisi {} olarak girilir. : public void sendMinFiyat(String cost)"}
+{"logLevel":"debug","message":"\tTag kısmında ilçe = Bornova kontrolü yapılır. : public void tagIlceAssertion()"}
+{"logLevel":"debug","message":"\tMinimum Fiyat Bilgisi Kontrol Edilir. : public void assertFiyatYuzBin()"}
+{"logLevel":"debug","message":"\tFiltrele Butonuna Basılır2 : public void clickFiltreleButton2()"}
+{"logLevel":"debug","message":"\tMaximum fiyat bilgisi {} olarak girilir. : public void sendMaxFiyat(String cost)"}
+{"logLevel":"debug","message":"\tİlçe Seçiniz Butonuna Bas. : public void clickIlceButton2()"}
+{"logLevel":"debug","message":"\tSonuçları Göster Butonuna Tıklanır. : public void clickSonuclariGoster()"}
+{"logLevel":"debug","message":"\tSıfır Bina yaşı Seçilir. : public void clickSifirBina()"}
+{"logLevel":"debug","message":"\tAnkara seçilir. : public void clickIzmir()"}
+{"logLevel":"debug","message":"\tBina Yaşlarını Onaylamak için Uygula butonuna basıılır. : public void clickYasUygulaButton()"}
+{"logLevel":"debug","message":"\tBornova seçilir. : public void clickBornova()"}
+{"logLevel":"debug","message":"\tKategori olarak ' İşyeri ' seçilir. : public void clickIsyeri()"}
+{"logLevel":"debug","message":"\tFiltrele Butonuna Tıkla2. : public void clickFiltreleButton3()"}
+{"logLevel":"debug","message":"\tKonum kısmında yer alan ' İl Seçiniz ' butonuna basılır. : public void clickIlSecinizButton()"}
+{"logLevel":"debug","message":"\tFiltrele Butonuna Basılır. : public void clickFiltreleButton()"}
+{"logLevel":"debug","message":"\tBornova Seçimi yapılır. : public void clickBornovaIlcesi()"}
+{"logLevel":"debug","message":"\tTelefon Numarasını Göster butonuna tııklanır. : public void clickTelNoButton()"}
+{"logLevel":"debug","message":"\tSonuçları Göster Butonuna Tıkla. : public void clickSonuclariGoster2()"}
+{"logLevel":"debug","message":"\tSatılık butonuna basılır. : public void clickSatilikButton()"}
+{"logLevel":"debug","message":"\t{} saniye kadar beklenir. : public void waitForSecond(ınt second) throws InterruptedException"}
+{"logLevel":"debug","message":"\tSite İçerisinde İkonunu İşaretle. : public void clickSiteIçiButton2() throws InterruptedException"}
+{"logLevel":"debug","message":"\t'Bina Yaşı Seçiniz' butonuna tıklanır. : public void clickBinaYasiSecinizButton()"}
+{"logLevel":"debug","message":"\t6-10 Bina yaşı Seçilir. : public void clickAltiOnBina()"}
+{"logLevel":"debug","message":"\tListedeki 3. ilan seçilir. : public void clickUcuncuIlan()"}
+{"logLevel":"debug","message":"\tKonum kısmında yer alan ' İl Seçiniz ' Butonuna  basılır. : public void clickIlSecinizButton()"}
+{"logLevel":"debug","message":"\tKonum kısmında yer alan ' İlçe Seçiniz ' butonuna basılır. : public void clickIlceSeciniz()"}
+{"logLevel":"debug","message":"\t1-5 Bina yaşı Seçilir. : public void clickBirToBesBina()"}
+{"logLevel":"debug","message":"\t3. İlan'a Tıkla. : public void clickUcuncuIlan2() throws InterruptedException"}
+{"logLevel":"debug","message":"\tUygula Butonuna Bas. : public void clickUygulaButton2()"}
+{"logLevel":"debug","message":"\tSatılık Butonuna Basılır.. : public void clickSatilikButton()"}
+{"logLevel":"debug","message":"\t'Oda Seçiniz' butonuna tıkla. : public void clickOdaYasiSecinizButton2()"}
+{"logLevel":"debug","message":"\tTag kısmında Bina Yaşı = 1-5 kontrolü yapılır. : public void tagBinaYasiBirBesAssertion()"}
+{"logLevel":"debug","message":"\t2+1 Oda seç. : public void clickIkiArtiBirOda()"}
+{"logLevel":"debug","message":"\tTag Kısmında il = İzmir kontrolü yapılır. : public void tagIlAssertion()"}
+{"logLevel":"debug","message":"\tTag kısmında Bina Yaşı = 6-10 kontrolü yapılır. : public void tagBinaYasiAltiOnAssertion()"}
+{"logLevel":"debug","message":"\tÇankaya Seçimini yap. : public void clickAnkaraIlcesi()"}
+{"logLevel":"debug","message":"\t6-10 saçeneği seçilir. : public void clickAltiOnBina()"}
+{"logLevel":"debug","message":"\tBina Yaşı 1-5 Kontrolü yapılır. : public void assertYasBirBes()"}
+{"logLevel":"debug","message":"\t{} Saniye kadar bekle. : public void waitForSecond(ınt second) throws InterruptedException"}
+{"logLevel":"debug","message":"\tÇankaya seçilir. : public void clickBornova()"}
+{"logLevel":"debug","message":"\tİşYeri Seçeneği Seçilir. : public void clickIsYeri()"}
+{"logLevel":"debug","message":"\tUygula Butonuna Bas2. : public void clickUygulaButton3()"}
+{"logLevel":"debug","message":"\t'Oda Seçiniz' butonuna tıklanır. : public void clickBinaYasiSecinizButton()"}
+{"logLevel":"debug","message":"\tKiralık Butonuna Tıkla. : public void clickKiralikButton2()"}
+{"logLevel":"debug","message":"\tListeden İzmir seçilir. : public void clickIzmir()"}
+{"logLevel":"debug","message":"\tUygula Butonuna Basılır. : public void clickUygulaButton()"}
+{"logLevel":"debug","message":"\tEn Çok alanına {} Bilgisi Girilir. : public void sendMaxCost(String cost)"}
+{"logLevel":"debug","message":"\tSıfır Bina saçeneği seçilir. : public void clickSifirBina()"}
+{"logLevel":"debug","message":"\t2+1 saçeneği seçilir. : public void clickAltiOnBina()"}
+{"logLevel":"debug","message":"\tAra butonuna basılır. : public void clickAraButton()"}
+{"logLevel":"debug","message":"\tİlçe Seçimi için İlçe Seçiniz Butonuna basılır. : public void clickIlceButton()"}
+{"logLevel":"debug","message":"\tKonum kısmında yer alan ' İlçe Seçiniz ' Butonuna basılır. : public void clickIlceSeciniz()"}
+{"logLevel":"debug","message":"\tİl Seçiniz Butonuna Bas. : public void clickIlseciniz2()"}
+{"logLevel":"debug","message":"\tTag kısmında Fiyet = 100.000 TL - 2.000.000 TL kontrolü yapılır. : public void tagFiyatAssertion()"}
+{"logLevel":"debug","message":"\tTag kısmında Bina Yaşı = Sıfır Bina kontrolü yapılır. : public void tagBinaYasiSifirAssertion()"}
+{"logLevel":"debug","message":"\tTag kısmında Kategori = İşyeri kontrolü yapılır. : public void tagKategoriAssertion()"}
+{"logLevel":"debug","message":"\tDurumu Kontrol Edilir. : public void assertDurumu()"}
+{"logLevel":"debug","message":"\tBina Yaşı Seçiniz butonuna tıklanır. : public void clickBinaYasButton()"}
+{"logLevel":"debug","message":"\tKiralık butonuna basılır. : public void clickKiralikButton()"}
+{"logLevel":"debug","message":"\tKategori Kontrol Edilir. : public void assertKategori()"}
+{"logLevel":"debug","message":"\tHepsiEmlak Web Sayfasına Gidilir : public void navigateToHepsiEmlak()"}
+{"logLevel":"debug","message":"\tEn Az alanına {} Bilgisi girilir. : public void sendMinCost(String cost) throws InterruptedException"}
+{"logLevel":"debug","message":"\tBina Yaşı Sıfır Bina Kontrolü yapılır. : public void assertYasSifir()"}
+{"logLevel":"debug","message":"\tİzmir seçilir. : public void clickIzmir()"}
+{"logLevel":"debug","message":"\tAra Butonuna basılır. : public void clickAraButton()"}
+{"logLevel":"debug","message":"\tİl Seçiniz Butonuna Basılır.. : public void clickIlseciniz()"}
+{"logLevel":"debug","message":"\t1-5 saçeneği seçilir. : public void clickBirBesBina()"}
+{"logLevel":"debug","message":"\tBina Yaşı 6-10 Kontrolü yapılır. : public void assertYasAltiOn()"}
+{"logLevel":"debug","message":"\tListeden Ankara seçilir. : public void clickAnkara()"}
+{"logLevel":"debug","message":"\tTelefon numarası Kontrolü : public void assertTelNo()"}
+{"logLevel":"debug","message":"\tSite içerisinde seçeneği evet olarak işaretlenir : public void clickSiteIcindeButton()"}
+{"logLevel":"debug","message":"\tMaximum Fiyat Bilgisi Kontrol Edilir. : public void assertYFiyatIkiMilyon()"}
+Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 46184
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1624051588.303][WARNING]: This version of ChromeDriver has not been tested with Chrome version 91.
+Haz 19, 2021 12:26:28 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'cookie kapatılır.' using 'class MobileWebTestCase1.closeCookie"}
+{"logLevel":"debug","message":"Executing 'Kiralık Butonuna Tıkla.' using 'class MobileWebTestCase2.clickKiralikButton2"}
+{"logLevel":"debug","message":"Executing '{} Saniye kadar bekle.' using 'class PCWebTestCase1.waitForSecond"}
+{"logLevel":"debug","message":"Executing 'Filtrele Butonuna Tıkla2.' using 'class MobileWebTestCase2.clickFiltreleButton3"}
+{"logLevel":"debug","message":"Executing 'İl Seçiniz Butonuna Bas.' using 'class MobileWebTestCase2.clickIlseciniz2"}
+{"logLevel":"debug","message":"Executing '{} Saniye kadar bekle.' using 'class PCWebTestCase1.waitForSecond"}
+{"logLevel":"debug","message":"Executing 'Listeden Ankara seçilir.' using 'class MobileWebTestCase2.clickAnkara"}
+{"logLevel":"debug","message":"Executing 'İlçe Seçiniz Butonuna Bas.' using 'class MobileWebTestCase2.clickIlceButton2"}
+{"logLevel":"debug","message":"Executing 'Çankaya Seçimini yap.' using 'class MobileWebTestCase2.clickAnkaraIlcesi"}
+{"logLevel":"debug","message":"Executing 'Uygula Butonuna Bas.' using 'class MobileWebTestCase2.clickUygulaButton2"}
+{"logLevel":"debug","message":"Executing ''Oda Seçiniz' butonuna tıkla.' using 'class MobileWebTestCase2.clickOdaYasiSecinizButton2"}
+{"logLevel":"debug","message":"Executing '2+1 Oda seç.' using 'class MobileWebTestCase2.clickIkiArtiBirOda"}
+{"logLevel":"debug","message":"Executing 'Uygula Butonuna Bas2.' using 'class MobileWebTestCase2.clickUygulaButton3"}
+{"logLevel":"debug","message":"Executing 'Site İçerisinde İkonunu İşaretle.' using 'class MobileWebTestCase2.clickSiteIçiButton2"}
+{"logLevel":"debug","message":"Executing 'Sonuçları Göster Butonuna Tıkla.' using 'class MobileWebTestCase2.clickSonuclariGoster2"}
+{"logLevel":"debug","message":"Executing '{} Saniye kadar bekle.' using 'class PCWebTestCase1.waitForSecond"}
+{"logLevel":"debug","message":"Executing '3. İlan'a Tıkla.' using 'class MobileWebTestCase2.clickUcuncuIlan2"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

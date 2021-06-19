@@ -1,0 +1,8 @@
+[
+	"C:\\Program Files\\Gauge\\bin\\gauge.exe",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"C:/Users/testinium/IdeaProjects/SeleniumTrendyol/SeleniumPro/CucumberliDeneme/TRENDYOL/Testinium2/HepsiEmlak/specs/WebCases.spec:19"
+]

@@ -1,0 +1,46 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 665milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 665"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 57151"}
+{"logLevel":"info","message":"Listening on port:57151"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickIlSecinizButton' and 'PCWebTestCase1.clickIlSecinizButton'"}
+{"logLevel":"debug","message":"Found Konum kısmında yer alan ' İl Seçiniz ' butonuna basılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.waitForSecond' and 'PCWebTestCase1.waitForSecond'"}
+{"logLevel":"debug","message":"Found {} Saniye kadar bekle. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickIlceSeciniz' and 'PCWebTestCase1.clickIlceSeciniz'"}
+{"logLevel":"debug","message":"Found Konum kısmında yer alan ' İlçe Seçiniz ' butonuna basılır. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickIzmır' and 'PCWebTestCase1.clickIzmır'"}
+{"logLevel":"debug","message":"Found İzmir seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickBornova' and 'PCWebTestCase1.clickBornova'"}
+{"logLevel":"debug","message":"Found Bornova seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickSatilikButton' and 'PCWebTestCase1.clickSatilikButton'"}
+{"logLevel":"debug","message":"Found Satılık butonuna basılır. in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tSatılık butonuna basılır. : public void clickSatilikButton()"}
+{"logLevel":"debug","message":"\tBornova seçilir. : public void clickBornova()"}
+{"logLevel":"debug","message":"\tİzmir seçilir. : public void clickIzmır()"}
+{"logLevel":"debug","message":"\tKonum kısmında yer alan ' İl Seçiniz ' butonuna basılır. : public void clickIlSecinizButton()"}
+{"logLevel":"debug","message":"\tKonum kısmında yer alan ' İlçe Seçiniz ' butonuna basılır. : public void clickIlceSeciniz()"}
+{"logLevel":"debug","message":"\t{} Saniye kadar bekle. : public void waitForSecond(ınt second) throws InterruptedException"}
+Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 24318
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1623913385.141][WARNING]: This version of ChromeDriver has not been tested with Chrome version 91.
+Haz 17, 2021 10:03:05 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Satılık butonuna basılır.' using 'class PCWebTestCase1.clickSatilikButton"}
+{"logLevel":"debug","message":"Executing '{} Saniye kadar bekle.' using 'class PCWebTestCase1.waitForSecond"}
+{"logLevel":"debug","message":"Executing 'Konum kısmında yer alan ' İl Seçiniz ' butonuna basılır.' using 'class PCWebTestCase1.clickIlSecinizButton"}
+{"logLevel":"debug","message":"Executing 'İzmir seçilir.' using 'class PCWebTestCase1.clickIzmır"}
+{"logLevel":"debug","message":"Executing '{} Saniye kadar bekle.' using 'class PCWebTestCase1.waitForSecond"}
+{"logLevel":"debug","message":"Executing 'Konum kısmında yer alan ' İlçe Seçiniz ' butonuna basılır.' using 'class PCWebTestCase1.clickIlceSeciniz"}
+{"logLevel":"debug","message":"Executing 'Bornova seçilir.' using 'class PCWebTestCase1.clickBornova"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

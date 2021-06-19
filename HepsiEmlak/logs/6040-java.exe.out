@@ -1,0 +1,32 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 1210milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1210"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 55933"}
+{"logLevel":"info","message":"Listening on port:55933"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.waitForSecond' and 'PCWebTestCase1.waitForSecond'"}
+{"logLevel":"debug","message":"Found {} saniye kadar bekle.  in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickSehirlerButton' and 'PCWebTestCase1.clickSehirlerButton'"}
+{"logLevel":"debug","message":"Found Konum filtresinden şehir İzmir olarak seçilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'PCWebTestCase1.clickSatilikButton' and 'PCWebTestCase1.clickSatilikButton'"}
+{"logLevel":"debug","message":"Found Satılık butonuna basılır. in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tSatılık butonuna basılır. : public void clickSatilikButton()"}
+{"logLevel":"debug","message":"\t{} saniye kadar bekle.  : public void waitForSecond(ınt second) throws InterruptedException"}
+{"logLevel":"debug","message":"\tKonum filtresinden şehir İzmir olarak seçilir. : public void clickSehirlerButton()"}
+Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 18021
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1623879363.110][WARNING]: This version of ChromeDriver has not been tested with Chrome version 91.
+Haz 17, 2021 12:36:03 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Satılık butonuna basılır.' using 'class PCWebTestCase1.clickSatilikButton"}
+{"logLevel":"debug","message":"Executing 'Konum filtresinden şehir İzmir olarak seçilir.' using 'class PCWebTestCase1.clickSehirlerButton"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

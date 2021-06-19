@@ -1,0 +1,75 @@
+
+// For Case1
+
+# Satılık butonuna tıklanır.
+*  Satılık butonuna basılır.
+*  "2" Saniye kadar bekle.
+
+# İl seçimi Yapılır (İzmir).
+*  Konum kısmında yer alan ' İl Seçiniz ' butonuna basılır.
+*  İzmir seçilir.
+*  "1" Saniye kadar bekle.
+
+# İlçe seçimi yapılır (Bornova).
+*  Konum kısmında yer alan ' İlçe Seçiniz ' butonuna basılır.
+*  Bornova seçilir.
+*  "2" Saniye kadar bekle.
+
+# Kategori seçilir (İşyeri).
+*  Kategori olarak ' İşyeri ' seçilir.
+*  "2" Saniye kadar bekle.
+
+# Minimum - Maximum Fiyat değerleri girilir (100.000 - 2.000.000).
+*  Minimum fiyat bilgisi "100000" olarak girilir.
+*  Maximum fiyat bilgisi "2000000" olarak girilir.
+
+# Bina yaşı seçilir (Sıfır Bina, 1-5, 6-10).
+*  'Bina Yaşı Seçiniz' butonuna tıklanır.
+*  Sıfır Bina saçeneği seçilir.
+*  1-5 saçeneği seçilir.
+*  6-10 saçeneği seçilir.
+
+# Tag Kontrolleri yapılır.
+*  "2" Saniye kadar bekle.
+*  Tag Kısmında il = İzmir kontrolü yapılır.
+*  Tag kısmında ilçe = Bornova kontrolü yapılır.
+*  Tag kısmında Kategori = İşyeri kontrolü yapılır.
+*  Tag kısmında Fiyet = 100.000 TL - 2.000.000 TL kontrolü yapılır.
+*  Tag kısmında Bina Yaşı = Sıfır Bina kontrolü yapılır.
+*  Tag kısmında Bina Yaşı = 1-5 kontrolü yapılır.
+*  Tag kısmında Bina Yaşı = 6-10 kontrolü yapılır.
+
+// For Case2
+
+# Kiralık Butonuna Basılır.
+*  Kiralık butonuna basılır.
+*  "2" saniye kadar beklenir.
+
+# İl Seçimi Yapılır (Ankara).
+*  Konum kısmında yer alan ' İl Seçiniz ' Butonuna  basılır.
+*  Ankara seçilir.
+*  "1" saniye kadar beklenir.
+
+# İlçe Seçimi Yapılır (Çankaya).
+*  Konum kısmında yer alan ' İlçe Seçiniz ' Butonuna basılır.
+*  Çankaya seçilir.
+
+# Oda Sayısı Seçimi Yapılır (2+1).
+*  'Oda Seçiniz' butonuna tıklanır.
+*  2+1 saçeneği seçilir.
+
+# Site İçerisinde Seçeneği İşaretlenir (Evet)
+*  Site içerisinde seçeneği evet olarak işaretlenir
+*  "1" saniye kadar beklenir.
+
+# Site İçinde Arama Yapılır.
+*  Ara Butonuna basılır.
+*  "2" saniye kadar beklenir.
+
+# 3. İlanın Deteylarına Gidilir.
+*  Listedeki 3. ilan seçilir.
+*  "1" saniye kadar beklenir.
+
+# Telefon Numarası Gösterilir ve Gerçekliği Sorgulanır.
+*  Telefon Numarasını Göster butonuna tııklanır.
+*  Telefon numarası Kontrolü
