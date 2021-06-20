@@ -1,7 +1,7 @@
 # HepsiEmlak-AkinProje
 
 - This project works on Google Chrome browser.
-- You need to downloads chrome web driver and add this driver to Driver class.  -> Driver link : : https://chromedriver.chromium.org/downloads 
+- You need to downloads chrome web driver and add this driver to Driver class.  -> Driver link: https://chromedriver.chromium.org/downloads 
 - Created as a Gauge project and added Selenium to their dependencies.
 - Before Running the project, you need to select the browser startup as mobile or web from BaseTestAll.
 - A living documentation has been created with BDD logic in Spec files.
